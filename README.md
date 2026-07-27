@@ -31,5 +31,5 @@ I build whatever I can imagine — if an idea sparks, I'm already coding it.
 
 **Profile Stats**  
 <p>
-  <img src="https://komarev.com/ghpvc/?username=TheNightlyLol&style=for-the-badge&color=green" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=TheNightlyLol&style=for-the-badge&color=gray" alt="Profile Views"/>
 </p>
