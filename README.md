@@ -13,7 +13,6 @@ I build whatever I can imagine — if an idea sparks, I'm already coding it.
 
 ###  Badges
 
-**Languages & Tools**  
 <p>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> -->
