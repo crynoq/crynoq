@@ -2,14 +2,14 @@
 
 I'm Nightly, a **FullStack Developer** based in **New York, USA**.
 
-I build whatever I can imagine — if an idea sparks, I'm already coding it.
-
 ## Building toward:
+<pre> 
 ↳ Full-Stack Development
 　↳ Nuxt/Next • JS/TS • Go/PHP • PostgreSQL
 ↳ C/C++ • ASM • Rust • Python 
 ↳ Linux & Open Source
 ↳ Cybersecurity
+</pre>
 
 ###  Badges
 
