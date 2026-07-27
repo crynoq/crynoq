@@ -1,14 +1,23 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hiiii <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm Nightly, a **FullStack Developer** based in **New York, USA**.
 
-## Building toward:
+# Some things about me: 
+
 <pre> 
-↳ Full-Stack Development
-　↳ Nuxt/Next • JS/TS • Go/PHP • PostgreSQL
-↳ C/C++ • ASM • Rust • Python 
-↳ Linux & Open Source
-↳ Cybersecurity
+  I love God, I am a Christian. 
+  I have one cat and I love her so much. 
+  I am very passionate about programming and what I do. 
+  Rude people tick me off. 
+</pre>
+
+<pre> 
+  Building Toward: 
+  ↳ Full-Stack Development
+  　↳ Nuxt/Next • JS/TS • Go/PHP • PostgreSQL
+  ↳ C/C++ • ASM • Rust • Python 
+  ↳ Linux & Open Source
+  ↳ Cybersecurity
 </pre>
 
 ###  Badges
