@@ -1,10 +1,9 @@
 ### Hiiii <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm Nightly, a **FullStack Developer** based in **New York, USA**.
-
-# Some things about me: 
-
+Discord UserID: 991438075270013058
 <pre> 
+  Some things about me: 
   I love God, I am a Christian. 
   I have one cat and I love her so much. 
   I am very passionate about programming and what I do. 
