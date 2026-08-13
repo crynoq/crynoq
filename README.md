@@ -4,10 +4,10 @@ I'm Nightly, a **FullStack Developer** based in **New York, USA**.
 Discord UserID: 991438075270013058
 <pre> 
   Some things about me: 
-  I love God, I am a Christian. 
-  I have one cat and I love her so much. 
-  I am very passionate about programming and what I do. 
-  Rude people tick me off. 
+  Christian ✝️ | Jesus is the way, the truth and the life. 
+  Constantly growing 📚 | Humans are purposeful beings; we need goals, patterns, and something to strive toward. I’m no different. Knowing this, I constantly aim to be a better man than I was the day before, setting higher goals for myself and continuing to grow for as long as I’m here.
+  Cats 🐈 | I have 1 cat, and I love her to death. 
+  Family ❤️ | Family is very important to me, especially my Mother - I couldn't ask for a better Mother, truly; she is my #1 on earth. 
 </pre>
 
 <pre> 
