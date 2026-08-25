@@ -1,6 +1,6 @@
 ### Hiiii <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Nightly, a **FullStack Developer** based in **New York, USA**.
+I'm Crynoq, a **FullStack Developer** based in **New York, USA**.
 Discord UserID: 991438075270013058
 <pre> 
   Some things about me: 
@@ -11,12 +11,12 @@ Discord UserID: 991438075270013058
 </pre>
 
 <pre> 
-  Building Toward: 
-  ↳ Full-Stack Development
-  　↳ Nuxt/Next • JS/TS • Go/PHP • PostgreSQL
-  ↳ C/C++ • ASM • Rust • Python 
-  ↳ Linux & Open Source
-  ↳ Cybersecurity
+🌐 Fullstack developer:
+↳ Nuxt • TS • Go/Node • PostgreSQL / MySQL
+
+🏗️ Building towards: 
+↳Cybersecurity 
+↳Computer Science
 </pre>
 
 ###  Badges
