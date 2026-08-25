@@ -5,7 +5,7 @@ Discord UserID: 991438075270013058
 <pre> 
   Some things about me: 
   Christian ✝️ | Jesus is the way, the truth and the life. 
-  Constantly growing 📚 | Humans are purposeful beings; we need goals, patterns, and something to strive toward. I’m no different. Knowing this, I constantly aim to be a better man than I was the day before, setting higher goals for myself and continuing to grow for as long as I’m here.
+  Constantly growing 📚 | People need goals and something to work toward. I’m the same. I always try to become a better man than I was yesterday, set higher goals, and keep growing for as long as I can.
   Cats 🐈 | I have 1 cat, and I love her to death. 
   Family ❤️ | Family is very important to me, especially my Mother - I couldn't ask for a better Mother, truly; she is my #1 on earth. 
 </pre>
