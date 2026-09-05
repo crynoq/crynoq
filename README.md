@@ -12,7 +12,7 @@ Discord UserID: 991438075270013058
 
 <pre> 
 🌐 Fullstack developer:
-↳ Nuxt • TS • Go/Node • PostgreSQL / MySQL
+↳ Nuxt • TS • Node • MySQL
 
 🏗️ Building towards: 
 ↳Cybersecurity 
